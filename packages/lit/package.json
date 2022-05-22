@@ -1,0 +1,26 @@
+{
+  "name": "lit",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "wsafight <984292420@qq.com>",
+  "homepage": "https://github.com/wsafight/micro-component-split-loader#readme",
+  "license": "ISC",
+  "main": "lib/lit.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsafight/micro-component-split-loader.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wsafight/micro-component-split-loader/issues"
+  }
+}
